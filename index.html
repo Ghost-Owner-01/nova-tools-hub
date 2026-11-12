@@ -28,4 +28,8 @@ function proPaySubmit(form){
  return true;
 }
 </script>
+<script>
+function paymentReturnStatus(){const q=new URLSearchParams(location.search).get('payment');if(!q)return;const st=document.getElementById('proPayStatus')||(function(){const e=document.createElement('div');e.className='status';document.querySelector('#pro-offer').prepend(e);return e})();if(q==='returned'){st.textContent='PayPal return detected. Delivery team will verify payment and send your Tools Hub Pro setup.';st.className='status ok'}else if(q==='cancelled'){st.textContent='Payment cancelled. You can retry anytime.';st.className='status warn'}}
+paymentReturnStatus();
+</script>
 </body></html>
