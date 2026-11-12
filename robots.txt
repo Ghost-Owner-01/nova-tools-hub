@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghost-owner-01.github.io/nova-tools-hub/sitemap.xml
