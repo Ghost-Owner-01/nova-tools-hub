@@ -1,11 +1,12 @@
 {
  "policy": "4 healthy models with failover",
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "models": [
+  "ork/nvidia/nemotron-3-ultra-550b-a55b:free",
   "coh/command-a-plus-05-2026",
   "r9/gemini/gemini-3.6-flash",
-  "r9/gh/gpt-4.1",
-  "r9/kr/claude-sonnet-4.5"
+  "r9/gh/gpt-4.1"
  ],
- "fallback": "template-safe"
+ "fallback": "template-safe",
+ "note": "dead models removed from rotation per health probe 2026-11-13"
 }
