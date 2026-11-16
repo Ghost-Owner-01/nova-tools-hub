@@ -1,6 +1,6 @@
-## Image Compressor â€” Free Online Tool — free online guide
+## Image Compressor — Free Online Tool — free online guide
 
-**Live tool:** [Image Compressor â€” Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/image-compressor.html)
+**Live tool:** [Image Compressor — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/image-compressor.html)
 
 ### What it does
 Compress JPG, PNG or WebP in your browser and download a smaller image. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
