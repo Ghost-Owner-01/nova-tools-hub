@@ -1,6 +1,6 @@
-## Age Calculator â€” Free Online Tool — free online guide
+## Age Calculator — Free Online Tool — free online guide
 
-**Live tool:** [Age Calculator â€” Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/age-calculator.html)
+**Live tool:** [Age Calculator — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/age-calculator.html)
 
 ### What it does
 Calculate exact age in years, months and days from any date. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
