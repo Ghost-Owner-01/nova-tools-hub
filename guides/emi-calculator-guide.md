@@ -1,6 +1,6 @@
-## Loan EMI Calculator â€” Free Online Tool — free online guide
+## Loan EMI Calculator — Free Online Tool — free online guide
 
-**Live tool:** [Loan EMI Calculator â€” Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/emi-calculator.html)
+**Live tool:** [Loan EMI Calculator — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/emi-calculator.html)
 
 ### What it does
 Estimate monthly EMI, total payment and total interest for a loan. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
