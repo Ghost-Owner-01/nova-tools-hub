@@ -1,6 +1,6 @@
-## BMI Calculator â€” Free Online Tool — free online guide
+## BMI Calculator — Free Online Tool — free online guide
 
-**Live tool:** [BMI Calculator â€” Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/bmi-calculator.html)
+**Live tool:** [BMI Calculator — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/bmi-calculator.html)
 
 ### What it does
 Calculate BMI from height and weight with a standard category. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
