@@ -1,6 +1,6 @@
-## Quick BMI Calculator — free online guide
+## Quick BMI Calculator — Free Online Tool — free online guide
 
-**Live tool:** [Quick BMI Calculator](https://ghost-owner-01.github.io/nova-tools-hub/tools/quick-bmi.html)
+**Live tool:** [Quick BMI Calculator — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/quick-bmi.html)
 
 ### What it does
 Calculate your Body Mass Index from height and weight in one second. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
