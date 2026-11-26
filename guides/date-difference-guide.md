@@ -1,6 +1,6 @@
-## Date Difference Calculator — free online guide
+## Date Difference Calculator — Free Online Tool — free online guide
 
-**Live tool:** [Date Difference Calculator](https://ghost-owner-01.github.io/nova-tools-hub/tools/date-difference.html)
+**Live tool:** [Date Difference Calculator — Free Online Tool](https://ghost-owner-01.github.io/nova-tools-hub/tools/date-difference.html)
 
 ### What it does
 Find the exact number of days and weeks between any two dates. Everything runs locally in your browser — no signup, no upload, no tracking of your input.
